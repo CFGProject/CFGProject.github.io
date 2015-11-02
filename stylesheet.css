@@ -1,6 +1,9 @@
 header { 
   background-size: cover;
   background:url("http://www.kidsologs.net/wp-content/uploads/2015/07/science-for-kids-3.jpg");
+  height: 250px;
+  width: 500px;
+  margin: 0 auto;
 } 
 
 header h1 { 
@@ -9,11 +12,6 @@ header h1 {
   font-family: 'Fredericka the Great', cursive;
 } 
 
-header img{
-  height:250px; 
-  width:500px;
-  margin:auto;
-} 
 
 
 
