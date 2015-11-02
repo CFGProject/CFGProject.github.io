@@ -1,15 +1,18 @@
-header img{ 
+header { 
   background-size: cover;
   background:url("http://www.kidsologs.net/wp-content/uploads/2015/07/science-for-kids-3.jpg");
 } 
 
-
-
-
-h1 { 
+header h1 { 
   text-align: center;
   font-size: 100px;
   font-family: 'Fredericka the Great', cursive;
+} 
+
+header img{
+  height:250px; 
+  width:500px;
+  margin:auto;
 } 
 
 
