@@ -19,6 +19,10 @@ header h1 {
   color: white; 
 } 
 
+#second-header { 
+  background-color:rgba(0,0,0,0.5);
+} 
+
 h2 { 
   text-align: center;
   font-family: 'Delius Unicase';
