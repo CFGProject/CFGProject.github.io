@@ -2,9 +2,8 @@ body {
   background-color:#c1e6f9;
 } 
 
-
-
 header img { 
+  margin-top: -10px;
   margin: 0 auto;
   height: 500px;
   width: 100%;
